@@ -1,0 +1,100 @@
+Revisão de Imagens (ChatGpt),,,
+,,,
+Imagem,,"Possui acessibilidade?(Acessível, Parcialmente acessível, Não acessível)","Elementos que pontuam acessibilidade (rampa, corrimão, sinalização)"
+,,,
+escola_1,,Parcialmente acessível,"Presença de rampa de acesso, ausência de corrimãos e guias de balizamento, piso tátil e sinalização inexistentes, obstrução parcial da entrada e calçada com desnível acentuado "
+escola_2,,Não acessível,Nenhum
+escola_3,,Não acessível,Nenhum
+escola_4,,Parcialmente acessível," Escadaria sem rampa, ausência de corrimãos e sinalização tátil, calçamento irregular, portão de acesso estreito e com degrau,  ausência de rota acessível identificável"
+escola_5,,Não acessível,Nenhum
+escola_6,,Parcialmente acessível," Rampa de acesso presente, escada lateral com ausência de corrimãos, entrada com portão duplo e gradil e calçamento e piso externo"
+escola_7,,Não acessível,Nenhum
+escola_8,,Não acessível,Nenhum
+escola_9,,Não acessível,Nenhum
+escola_10,,Parcialmente acessível,"Ausência de rampa padronizada, falta de piso tátil, ausência de sinalização acessível e desníveis e calçada estreita,"
+hospital_1,,Não acessível,Nenhum
+hospital_2,,Parcialmente acessível,Rampa de acesso
+hospital_3,,Parcialmente acessível,Rampa de acesso
+hospital_4,,Acessível,Entrada no mesmo nível da calçada
+hospital_5,,Não acessível,Nenhum
+hospital_6,,Parcialmente acessível,Rampa de acesso e piso regular
+hospital_7,,Parcialmente acessível,Rampa de acesso
+hospital_8,,Não acessível,Nenhum
+hospital_9,,Acessível,"Entrada ampla e ao nível da calçada, sem degraus e nem obstáculos"
+hospital_10,,Não acessível,Nenhum
+mercado_1,,Não acessível,Nenhum
+mercado_2,,Parcialmente acessível,"Entrada no nível do passeio, ausência de rampa sinalizada, obstáculos na calçada,  ausência de piso tátil direcional e de alerta e conservação da calçada"
+mercado_3,,Não acessível,Nenhum
+mercado_4,,Parcialmente acessível,"Entrada nivelada com a calçada,calçada com desnível irregular, ausência de piso tátil, obstruções parciais e largura adequada da entrada"
+mercado_5,,Não acessível,Nenhum
+mercado_6,,Parcialmente acessível,"Acesso nivelado, piso com textura diferenciada, ausência de piso táti, obstruções eventuais e estacionamento "
+mercado_7,,Parcialmente acessível,"Presença de degraus frontais, rampa lateral improvisada, piso em frente à rampa e largura da entrada"
+mercado_8,,Não acessível,Nenhum
+mercado_9,,Não acessível,Nenhum
+mercado_10,,Não acessível,Nenhum
+comercio_1,,Não acessível,Nenhum
+comercio_2,,Parcialmente acessível,Mesmo nível da calçada e a  calçada está em estado razoável
+comercio_3,,Não acessível,Nenhum
+comercio_4,,Acessível,"Entrada no nível da calçada, largura da porta suficiente, calçada com bom estado de conservação"
+comercio_5,,Parcialmente acessível,Rampa de acesso e calçada em condição razoável
+comercio_6,,Não acessível,Nenhum
+comercio_7,,Parcialmente acessível,"Entrada aparentemene no nível da calçada e calçada com alguma irregularidades, mas transitável"
+comerrcio_8,,Não acessível,Nenhum
+comercio_9,,Acessível,"Entra sem degraus, com rampa de acesso, porta larga e sem obstáculos e calçada regular"
+comercio_10,,Não acessível,Nenhum
+farmacia_1,,Parcialmente acessível,Calçada rebaixada e sem degraus e piso com cor diferenciada na área de acesso
+farmacia_2,,Não acessível,Nenhum
+farmacia_3,,Parcialmente acessível,"Entrada nivelada, faixa livre de circulação e faixa livre de circulação"
+farmacia_4,,Parcialmente acessível,"Entrada nivelada, calçada com piso regular e boa visibilidade da entrada"
+farmacia_5,,Acessível,"Vaga reservada para PCD e idoso, entrada acessível e em nível, calçada frontal sem obstáculos, espaço amplo de circulação eBoa visibilidade e contraste"
+farmacia_6,,Parcialmente acessível,"Entrada em nível, tapete antiderrapante na entrada e calçada com largura razoável."
+farmacia_7,,Não acessível,Nenhum
+farmacia_8,,Não acessível,Nenhum
+farmacia_9,,Parcialmente acessível,"Estacionamento com vaga reservada, entrada acessível e sinalização e comunicação visual"
+farmacia_10,,Acessível,"Estacionamento amplo e plano, entrada acessível e calçada de acesso regular."
+restaurante_1,,Parcialmente acessível,Rampa e corrimão
+restaurante_2,,Parcialmente acessível,"Rampa de acesso presente, estacionamento acessível e espaço livre de circulação"
+restaurante_3,,Não acessível,Nenhum
+restaurante_4,,Parcialmente acessível,"Acesso em nível, calçada com piso tátil e espaço para circulação externa"
+restaurante_5,,Parcialmente acessível,"Acesso em nível (sem degrau), Presença de piso tátil direcional"
+restaurante_6,,Não acessível,Nenhum
+restaurante_7,,Parcialmente acessível,"Entrada em nível com a calçada, a largura da entrada parece adequada e vaga reservada"
+restaurante_8,,Não acessível,Nenhum
+restaurante_9,,Parcialmente acessível,"A calçada é larga e entrada principal do restaurante está ao nível da calçada,"
+restaurante_10,,Não acessível,Nenhum
+shopping_1,,Acessível,"Calçada ampla e nivelada, faixa de travessia entre o ponto de ônibus e a entrada, acesso frontal ao shopping com portas largas e sem degraus aparentes e ponto de ônibus com abrigo coberto e assento"
+shopping_2,,Parcialmente acessível,"Calçada com largura suficiente e piso regular (pedra portuguesa), corrimãos duplos, presença de um ponto de ônibus próximo"
+shopping_3,,Acessível,"Rampa de acesso com corrimão, calçada com largura adequada e sem desníveis aparentes, pavimentação regular, sinalização tátil no piso (faixas elevadas pretas), ausência de degraus isolados na área externa e estacionamento acessível identificado (sem parar) "
+shopping_4,,Parcialmente acessível,"Calçada nivelada e ampla, pavimentação em pedra portuguesa, ausência de degraus na entrada principal e ampla fachada de vidro"
+shopping_5,,Parcialmente acessível,"Entrada ao nível da calçada, Calçamento de pedra portuguesa regular, ausência de degraus na entrada principal e ampla fachada de vidro"
+shopping_6,,Parcialmente acessível,"Entrada ao nível da calçada, Calçamento de pedra portuguesa regular, área livre ampla e bancos de espera externos "
+shopping_7,,Não acessível,Nenhum
+shopping_8,,Parcialmente acessível,"Presença de escada rolante e elevador panorâmico, calçamento plano e largo"
+shopping_9,,Parcialmente acessível,"Corrimão duplo nas escadas, que atende parcialmente à norma de acessibilidade (importante para pessoas com mobilidade reduzida). Calçada ampla e plana em frente à entrada."
+shopping_10,,Acessível,"Rampa de acesso com corrimão duplo em ambos os lados, calçada plana, com piso antiderrapante e sinalização de faixa de pedestre bem visível e entrada com portas automáticas de vidro"
+prefeitura_1,,Não acessível,Nenhum
+prefeitura_2,,Parcialmente acessível,"corrimãos, calçada em frente é larga, plana e bem conservada."
+prefeitura_3,,Acessível,"Rampa larga e cetralizada, com inclinação aparentemente adequada, piso é regular e amplo, corrimãos e largura generosa da via de acesso."
+prefeitura_4,,Não acessível,Nenhum.
+prefeitura_5,,Parcialmente acessível,Rampa de acesso e entrada aparentemente tem largura adequada.
+prefeitura_6,,Não acessível,Nenhum
+prefeitura_7,,Parcialmente acessível,Rampa e entrada ampla
+prefeitura_8,,Não acessível,Nenhum
+prefeitura_9,,Parcialmente acessível,Rampa e calçada é razoável.
+prefeitura_10,,Não acessível,Nenhum
+aeroporto_1,,Parcialmente acessível,Acesso amplo
+aeroporto_2,,Parcialmente acessível,Acesso amplo e sem degraus
+aeroporto_3,,Acessível,Acesso amplo e piso é nivelado
+aeroporto_4,,Acessível,Sem obstáculos e piso nivelado
+aeroporto_5,,Parcialmente acessível,Acesso amplo e sem degraus
+aeroporto_6,,Parcialmente acessível,Espaço amplo
+universidade_1,,Não acessível,Nenhum
+universidade_2,,Parcialmente acessível,Rampa
+universidade_3,,Acessível,"Entrada com rampa ampla, corrimões em ambos os lados, sem barreiras visíveis. A calçada parece nivelada, e a entrada é larga"
+universidade_4,,Parcialmente acessível,Possui rampa
+universidade_5,,Não acessível,Nenhum
+universidade_6,,Parcialmente acessível,Pequena rampa lateral
+universidade_7,,Acessível,"Entrada com rampa, corrimão duplo, calçada plana, sem degraus e boa sinalização visual"
+universidade_8,,Não acessível,Nenhum
+universidade_9,,Parcialmente acessível,"Rampa presente, mas estreita"
+universidade_10,,Acessível,"Rampa ampla, comrrimões, piso tátil e entrada nivelada"

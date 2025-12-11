@@ -1,0 +1,19 @@
+Gemini,,,,,,,ChatGpt,,,,,
+,,,,,,,,,,,,
+,Predito: Acessível,,Predito: Parcialmente acessível,,Predito: Não acessível,,,Predito: Acessível,,Predito: Parcialmente acessível,,Predito: Não acessível
+Real: Acessível,20,,9,,9,,Real: Acessível,12,,15,,11
+Real: Parcialmente acessível,2,,20,,12,,Real: Parcialmente acessível,2,,19,,13
+Real: Não acessível,3,,9,,12,,Real: Não acessível,1,,10,,13
+Acessivel,,,Não Acessivel,,,,Acessivel,,,Não Acessivel,,
+TP (Verdadeiro Positivo),20,,TP (Verdadeiro Positivo),12,,,TP (Verdadeiro Positivo),12,,TP (Verdadeiro Positivo),13,
+FP (Falso Positivo),5,,FP (Falso Positivo),21,,,FP (Falso Positivo),3,,FP (Falso Positivo),24,
+FN (Falso Negativo),18,,FN (Falso Negativo),12,,,FN (Falso Negativo),26,,FN (Falso Negativo),11,
+Parcialmente Acessivel,,,Acurrace,,,,Parcialmente Acessivel,,,Acurrace,,
+TP (Verdadeiro Positivo),20,,,,,,TP (Verdadeiro Positivo),19,,,,
+FP (Falso Positivo),18,,"54,17%",,,,FP (Falso Positivo),25,,"45,83%",,
+FN (Falso Negativo),14,,,,,,FN (Falso Negativo),15,,,,
+,,,,,,,,,,,,
+,Precisão,,Recall,F1-score,,,,Precisão,,Recall,F1-score,
+Acessível,"80,00%",,"52,63%","63,49%",,,Real: Acessível,"80,00%",,"31,58%","45,28%",
+Parcialmente acessível,"52,63%",,"58,82%","55,56%",,,Real: Parcialmente acessível,"43,18%",,"55,88%","48,72%",
+ Não acessível,"36,36%",,"50,00%","42,11%",,,Real: Não acessível,"35,14%",,"54,17%","42,62%",
